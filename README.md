@@ -15,7 +15,7 @@
 python3 server.py
 ```
 
-5. 浏览器打开 **http://localhost:8000**。保持终端窗口运行，按 Ctrl+C 停止。
+5. 浏览器打开 http://localhost:8000。保持终端窗口运行，按 Ctrl+C 停止。
 
 也可以尝试双击 `start-mac.command`。如果无法双击、权限不足或被系统拦截，直接用上面的终端命令运行即可，不需要关闭系统安全保护。
 
